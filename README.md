@@ -9,4 +9,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
+[<img align="left" alt="NgoTrongPhong | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
+[<img align="left" alt="NgoTrongPhong | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
+
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
+[facebook]: https://www.facebook.com/wind217
+[zalo]: https://zalo.me/0975349807

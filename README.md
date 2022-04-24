@@ -18,7 +18,6 @@
 
 <img align="left" alt="C#" height="32" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Java" height="32" width="32" src="https://mpng.subpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg" />
-<img align="left" alt="PHP" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
 <img align="left" alt="CSS" height="32" width="32"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" />
 
 <br>
